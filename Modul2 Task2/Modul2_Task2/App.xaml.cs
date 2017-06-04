@@ -13,7 +13,7 @@ namespace Modul2_Task2
 		{
 			InitializeComponent();
 
-			MainPage = new Modul2_Task2.MainPage();
+			MainPage = new Modul2_Task2.KalkulatorPage();
 		}
 
 		protected override void OnStart ()
